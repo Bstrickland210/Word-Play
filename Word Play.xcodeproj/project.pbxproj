@@ -13,6 +13,7 @@
 		F340AD7B272854B900AA5773 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F340AD79272854B900AA5773 /* Main.storyboard */; };
 		F340AD7D272854BA00AA5773 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F340AD7C272854BA00AA5773 /* Assets.xcassets */; };
 		F340AD80272854BA00AA5773 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F340AD7E272854BA00AA5773 /* LaunchScreen.storyboard */; };
+		F340AD8827285F7300AA5773 /* UpperCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F340AD8727285F7300AA5773 /* UpperCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F340AD7C272854BA00AA5773 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F340AD7F272854BA00AA5773 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F340AD81272854BA00AA5773 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F340AD8727285F7300AA5773 /* UpperCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpperCase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F340AD75272854B900AA5773 /* SceneDelegate.swift */,
 				F340AD77272854B900AA5773 /* ViewController.swift */,
 				F340AD79272854B900AA5773 /* Main.storyboard */,
+				F340AD8727285F7300AA5773 /* UpperCase.swift */,
 				F340AD7C272854BA00AA5773 /* Assets.xcassets */,
 				F340AD7E272854BA00AA5773 /* LaunchScreen.storyboard */,
 				F340AD81272854BA00AA5773 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				F340AD78272854B900AA5773 /* ViewController.swift in Sources */,
 				F340AD74272854B900AA5773 /* AppDelegate.swift in Sources */,
+				F340AD8827285F7300AA5773 /* UpperCase.swift in Sources */,
 				F340AD76272854B900AA5773 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
